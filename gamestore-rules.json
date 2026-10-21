@@ -1,0 +1,14 @@
+{
+  "rules": [
+    {
+      "id": "auth-required",
+      "description": "El usuario debe autenticarse antes de acceder al contenido principal.",
+      "enabled": true
+    },
+    {
+      "id": "email-validation",
+      "description": "El correo electrónico debe ser válido y contener un caracter @.",
+      "enabled": true
+    }
+  ]
+}
